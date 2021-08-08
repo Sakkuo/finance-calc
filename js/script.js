@@ -9,6 +9,9 @@ let appData = {
   expenses: {
     expensTipe: expensValue
   },
+  income: [],
+  saving: false,
+  optionalExpenses
 };
 
 console.log(appData);
